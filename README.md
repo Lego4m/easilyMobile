@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/103668139/217619641-4b508307-84cf-4e92
 --------
 
 
-3º  Hackabrains  da Faculdade de Tecnologia Senac.
+3º  Hackabrains  da Faculdade de Tecnologia Senac.<br>
 O time discutiu e estudou como pode contribuir com a sociedade através da Inclusão Social por meio da Tecnologia. Como resultado, foi criado o aplicativo Easily, que ajuda pessoas com necessidades especiais, como cadeirantes, deficiência visual, auditiva, mobilidade reduzida, etc. O aplicativo utiliza o Google Maps para mostrar aos usuários estabelecimentos públicos ou privados com acessibilidade.
 
 Os usuários baixam o aplicativo, fazem um breve cadastro através de conta social do Google ou Facebook e têm acesso aos locais cadastrados. Em tempo real e com localização ativada no celular, o usuário pode buscar locais e ver as informações sobre sua acessibilidade. Se um estabelecimento não tiver recursos de acessibilidade, o usuário pode reportar isso através do aplicativo.
