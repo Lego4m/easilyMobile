@@ -1,4 +1,4 @@
-# Easily 
+# Easily ♿📌
 
 ![easily](https://user-images.githubusercontent.com/103668139/217615910-33878959-4228-4db0-973f-d5dfa2decbb3.png)
 
